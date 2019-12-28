@@ -1,0 +1,60 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+    <!--
+    <record model="ir.ui.view" id="ciobase.list">
+      <field name="name">ciobase list</field>
+      <field name="model">ciobase.ciobase</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="value"/>
+          <field name="value2"/>
+        </tree>
+      </field>
+    </record>
+    -->
+
+    <!-- actions opening views on models -->
+    <!--
+    <record model="ir.actions.act_window" id="ciobase.action_window">
+      <field name="name">ciobase window</field>
+      <field name="res_model">ciobase.ciobase</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+    -->
+
+    <!-- server action to the one above -->
+    <!--
+    <record model="ir.actions.server" id="ciobase.action_server">
+      <field name="name">ciobase server</field>
+      <field name="model_id" ref="model_ciobase_ciobase"/>
+      <field name="state">code</field>
+      <field name="code">
+        action = {
+          "type": "ir.actions.act_window",
+          "view_mode": "tree,form",
+          "res_model": self._name,
+        }
+      </field>
+    </record>
+    -->
+
+    <!-- Top menu item -->
+    <!--
+    <menuitem name="ciobase" id="ciobase.menu_root"/>
+    -->
+    <!-- menu categories -->
+    <!--
+    <menuitem name="Menu 1" id="ciobase.menu_1" parent="ciobase.menu_root"/>
+    <menuitem name="Menu 2" id="ciobase.menu_2" parent="ciobase.menu_root"/>
+    -->
+    <!-- actions -->
+    <!--
+    <menuitem name="List" id="ciobase.menu_1_list" parent="ciobase.menu_1"
+              action="ciobase.action_window"/>
+    <menuitem name="Server to list" id="ciobase" parent="ciobase.menu_2"
+              action="ciobase.action_server"/>
+    -->
+  </data>
+</odoo>

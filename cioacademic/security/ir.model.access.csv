@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_cioacademic_cioacademic_manager,cioacademic_mmacademicperiod_manager,model_cioacademic_mmacademicperiod,cioacademic_group_user,1,0,0,0
+access_cioacademic_cioacademic_user,cioacademic_mmacademicperiod_user,model_cioacademic_mmacademicperiod,cioacademic_group_manager,1,0,0,0

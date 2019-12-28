@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data>
+		<!-- <template id="listing"> -->
+		<!-- <ul> -->
+		<!-- <li t-foreach="objects" t-as="object"> -->
+		<!-- <a t-attf-href="#{ root }/objects/#{ object.id }"> -->
+		<!-- <t t-esc="object.display_name"/> -->
+		<!-- </a> -->
+		<!-- </li> -->
+		<!-- </ul> -->
+		<!-- </template> -->
+		<!-- <template id="object"> -->
+		<!-- <h1><t t-esc="object.display_name"/></h1> -->
+		<!-- <dl> -->
+		<!-- <t t-foreach="object._fields" t-as="field"> -->
+		<!-- <dt><t t-esc="field"/></dt> -->
+		<!-- <dd><t t-esc="object[field]"/></dd> -->
+		<!-- </t> -->
+		<!-- </dl> -->
+		<!-- </template> -->
+		<template id="perwalian_list_template" name="Perwalian List">
+			<div id="wrap" class="container">
+				<h1>Perwalian</h1>
+				<t t-foreach="perwalians" t-as="perwalian">
+					<div class="row">
+						<span t-field="perwalian.periodePerwalian" />
+						,
+						<span t-field="perwalian.programStudi" />
+						,
+						<span t-field="perwalian.namaMahasiswa" />
+					</div>
+				</t>
+			</div>
+		</template>
+	</data>
+</odoo>

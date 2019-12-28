@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a773104-47d8-4ede-a8e4-f65f6a6f3517" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cioperwalian/models/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../current/odoo/fields.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19040">
+              <caret line="1369" column="36" selection-start-line="1369" selection-start-column="36" selection-end-line="1369" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cioperwalian/views/views.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1022">
+              <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library_app/views/book_view.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="db://9c46bc7e-a0cf-481d-824a-7f4e69518f30/objects/schemas/public/tables/cioperwalian_mtperwaliansimple">
+          <provider selected="true" editor-type-id="1.DATA">
+            <state row-count="1" readonly="false">
+              <columns>
+                <column name="id" position="0" visible="true" />
+                <column name="name" position="1" visible="true" />
+                <column name="periodePerwalian" position="2" visible="true" />
+                <column name="fasePerwalian" position="3" visible="true" />
+                <column name="taggalIsian" position="4" visible="true" />
+                <column name="programStudi" position="5" visible="true" />
+                <column name="dosenWali" position="6" visible="true" />
+                <column name="namaMahasiswa" position="7" visible="true" />
+                <column name="nimMahasiswa" position="8" visible="true" />
+                <column name="emailMahasiswa" position="9" visible="true" />
+                <column name="hpMahasiswa" position="10" visible="true" />
+                <column name="akunSosialMahasiswa" position="11" visible="true" />
+                <column name="ipkMahasiswa" position="12" visible="true" />
+                <column name="ipsMahasiswa" position="13" visible="true" />
+                <column name="kegiatanPeserta" position="14" visible="true" />
+                <column name="kegiatanPesertaFile" position="15" visible="true" />
+                <column name="create_uid" position="16" visible="true" />
+                <column name="create_date" position="17" visible="true" />
+                <column name="write_uid" position="18" visible="true" />
+                <column name="write_date" position="19" visible="true" />
+              </columns>
+              <sorting />
+              <content-types />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cioperwalian/models/models.py" />
+        <option value="$PROJECT_DIR$/cioperwalian/views/views.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="301" />
+    <option name="y" value="149" />
+    <option name="width" value="1400" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="widiaddons12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="widiaddons12" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="widiaddons12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="widiaddons12" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="widiaddons12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="widiaddons12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="widiaddons12" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="widiaddons12" type="462c0819:PsiDirectoryNode" />
+              <item name="cioperwalian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="widiaddons12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="widiaddons12" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="widiaddons12" type="462c0819:PsiDirectoryNode" />
+              <item name="cioperwalian" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="widiaddons12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="widiaddons12" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="widiaddons12" type="462c0819:PsiDirectoryNode" />
+              <item name="library_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="widiaddons12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="widiaddons12" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="widiaddons12" type="462c0819:PsiDirectoryNode" />
+              <item name="library_app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a773104-47d8-4ede-a8e4-f65f6a6f3517" name="Default Changelist" comment="" />
+      <created>1577273697038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577273697038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18502674" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" weight="0.17219251" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946523" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005348" side_tool="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3294979" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.32994652" />
+      <window_info anchor="right" id="R Packages" order="4" weight="0.32994652" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="db://9c46bc7e-a0cf-481d-824a-7f4e69518f30/objects/schemas/public/tables/cioperwalian_mtperwaliansimple">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="1" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="periodePerwalian" position="2" visible="true" />
+            <column name="fasePerwalian" position="3" visible="true" />
+            <column name="taggalIsian" position="4" visible="true" />
+            <column name="programStudi" position="5" visible="true" />
+            <column name="dosenWali" position="6" visible="true" />
+            <column name="namaMahasiswa" position="7" visible="true" />
+            <column name="nimMahasiswa" position="8" visible="true" />
+            <column name="emailMahasiswa" position="9" visible="true" />
+            <column name="hpMahasiswa" position="10" visible="true" />
+            <column name="akunSosialMahasiswa" position="11" visible="true" />
+            <column name="ipkMahasiswa" position="12" visible="true" />
+            <column name="ipsMahasiswa" position="13" visible="true" />
+            <column name="kegiatanPeserta" position="14" visible="true" />
+            <column name="kegiatanPesertaFile" position="15" visible="true" />
+            <column name="create_uid" position="16" visible="true" />
+            <column name="create_date" position="17" visible="true" />
+            <column name="write_uid" position="18" visible="true" />
+            <column name="write_date" position="19" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cioperwalian/models/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../current/odoo/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19040">
+          <caret line="1369" column="36" selection-start-line="1369" selection-start-column="36" selection-end-line="1369" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cioperwalian/views/views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1022">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library_app/views/book_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

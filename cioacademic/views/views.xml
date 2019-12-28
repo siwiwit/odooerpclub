@@ -1,0 +1,62 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+    <!--
+    <record model="ir.ui.view" id="cioacademic.list">
+      <field name="name">cioacademic list</field>
+      <field name="model">cioacademic.cioacademic</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="value"/>
+          <field name="value2"/>
+        </tree>
+      </field>
+    </record>
+    -->
+
+    <!-- actions opening views on models -->
+    <!--
+    <record model="ir.actions.act_window" id="cioacademic.action_window">
+      <field name="name">cioacademic window</field>
+      <field name="res_model">cioacademic.cioacademic</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+    -->
+
+    <!-- server action to the one above -->
+    <!--
+    <record model="ir.actions.server" id="cioacademic.action_server">
+      <field name="name">cioacademic server</field>
+      <field name="model_id" ref="model_cioacademic_cioacademic"/>
+      <field name="state">code</field>
+      <field name="code">
+        action = {
+          "type": "ir.actions.act_window",
+          "view_mode": "tree,form",
+          "res_model": self._name,
+        }
+      </field>
+    </record>
+    -->
+
+    <!-- Top menu item -->
+    <!--
+    <menuitem name="cioacademic" id="cioacademic.menu_root"/>
+    -->
+    <!-- menu categories -->
+    <!--
+    <menuitem name="Menu 1" id="cioacademic.menu_1" parent="cioacademic.menu_root"/>
+    <menuitem name="Menu 2" id="cioacademic.menu_2" parent="cioacademic.menu_root"/>
+    -->
+    <!-- actions -->
+    <!--
+    <menuitem name="List" id="cioacademic.menu_1_list" parent="cioacademic.menu_1"
+              action="cioacademic.action_window"/>
+    <menuitem name="Server to list" id="cioacademic" parent="cioacademic.menu_2"
+              action="cioacademic.action_server"/>
+    -->
+    
+    
+  </data>
+</odoo>
